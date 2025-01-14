@@ -180,3 +180,4 @@ products_vectorstore/
 **/report.txt
 
 git_pull_information.txt
+web_site_summarizer_with_llama3.2.ipynb
