@@ -181,3 +181,7 @@ products_vectorstore/
 
 git_pull_information.txt
 web_site_summarizer_with_llama3.2.ipynb
+
+
+fine_tune_train.jsonl
+fine_tune_validation.jsonl
